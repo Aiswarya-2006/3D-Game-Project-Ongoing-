@@ -1,11 +1,30 @@
-# Procedural Generation Project
+# 3D Game Project (Zelda-Inspired)
+## Overview
 
-This project demonstrates procedural generation techniques used to create dynamic and randomized game environments. The main goal of the project is to understand how algorithmic methods can be used to generate levels automatically, improving replayability and reducing the need for manually designed content.
+This project is an ongoing 3D game inspired by The Legend of Zelda. The goal of the project is to learn and implement core 3D game development concepts by recreating essential gameplay mechanics such as player movement, exploration, and interaction within a 3D environment.
+The project is being developed using the Playable Workshop framework and serves as a hands-on learning experience in 3D game design and development.
 
-The project was developed by following a tutorial, which helped in learning the core concepts behind procedural generation, including randomness, level variation, and basic optimization techniques. Through this project, I explored how different parameters affect level generation and how procedural logic can be applied in game development workflows.
-
-This project served as a learning exercise to strengthen my understanding of game design principles, procedural content generation, and practical implementation using a game engine.
+# Features (Current)
+- Basic 3D player movement and controls
+- Camera systems for third-person gameplay
+- Interactive game environment
+- Early-stage world design and exploration mechanics
 
 ## Technologies Used
 - Game Engine: Godot
-- Programming Language: GDScript
+- Framework: Playable Workshop
+-Programming Language: GDScript
+
+## Learning Objectives
+-Understand 3D game development workflows
+-Implement player and camera systems in a 3D space
+- Design and structure interactive 3D environments
+- Learn core gameplay mechanics used in action-adventure games
+  
+## Project Status
+Work in Progress
+This project is actively under development, and new features and improvements are being added as learning progresses.
+
+Inspiration
+
+Inspired by The Legend of Zelda series for educational and learning purposes.
